@@ -92,7 +92,7 @@ class Tawk {
                 transform: scale(0);
             }
             .button-container {
-                background-color: #04b73f;
+                background-color: black;
                 width: 60px;
                 height: 60px;
                 border-radius: 50%;
@@ -178,5 +178,3 @@ class Tawk {
         console.log(formSubmission);
     }
 }
-
-const tk =new Tawk()
